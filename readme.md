@@ -61,20 +61,6 @@ Place these files inside `assets/`:
 Si usas otros nombres, también debes cambiar las rutas dentro de `index.html` y `script.js`.
 If you use different file names, you should also update the paths in `index.html` and `script.js`.
 
-## Cómo abrirlo en Visual Studio Code
-
-1. Abre la carpeta del proyecto en VS Code.
-1. Open the project folder in VS Code.
-
-2. Coloca los GIF en la carpeta `assets/`.
-2. Place the GIFs in the `assets/` folder.
-
-3. Abre `index.html` con Live Server o con un servidor local similar.
-3. Open `index.html` with Live Server or a similar local server.
-
-4. Interactúa con los botones para avanzar entre las pantallas.
-4. Interact with the buttons to move through the screens.
-
 ## Qué modifica cada archivo
 
 ### `index.html`
